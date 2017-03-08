@@ -1,0 +1,66 @@
+\documentclass{article}
+\usepackage{lmodern}
+\usepackage{amsmath}
+
+\title{From Mathematics to Generic Programming}
+\author{Brooks Mershon}
+\date{March 2017}
+
+\begin{document}
+
+\maketitle
+
+\section*{4.4}
+
+\textit{Solution.}
+
+This is a \textit{constructive} proof. We are tasked with proving that for any number that conforms to a particular form, there exists a number such that a particular statement is true. In this proof, we will provide a way to obtain the number that exists, thereby proving its existence.
+
+We have an odd square number $x$. We might imagine that $x = 2m + 1$, but we can actually go further and consider $\sqrt{x} = 2l + 1$. This is because an odd square number must be obtained by multiplying two odd numbers together. Similarly, we can consider the number $y$ that we would like to show exists as a number expressed by $2n$. But of course $y = \sqrt{2k}^2$, since an even square number implies that two even numbers were multiplied together to produce it.
+
+We are told that with an appropriate $y$, which we must show exists, the following true:
+
+$$x + y = a^2.$$
+
+We can also express this fact that $x + y$ yields a square number as:
+
+$$(2l + 1)^2 + (2k)^2 = a^2.$$
+
+Given an appropriate choice for k, we might be able to show that the left hand side (LHS) factors into two identical factors, which would imply that indeed there exists some $y$ such that $x + y = a^2$.
+
+\begin{align*}
+(2l + 1)^2 + (2k)^2 &= a^2 \\
+4l^2 + 4l + 1 + 4k^2 &= a^2 \\
+4k^2 + 4l^2 + 4l + 1 &= a^2
+\end{align*}
+
+This looks promising. We might intuitively realize the potential to factorize a quadratic. Here is where we will attempt to construct an appropriate $y$ by choosing a value for $k$.
+
+We can create a system of equations that reflects the form of the coefficients we would like to see so that we can factor a quadratic into two equal factors.
+
+\begin{align*}
+4 + 4\lambda^2 = q^2 \\
+q = 4
+\end{align*}
+
+We have that:
+
+\begin{align*}
+4 + 4\lambda^2 = 4^2 \\
+4\lambda^2 = 12 \\
+\lambda^2 = 3 \\
+\lambda = \sqrt{3}.
+\end{align*}
+
+Let $k = \sqrt{3}$. Then we have,
+
+\begin{align*}
+4(\sqrt{3}l)^2 + 4l^2 + 4l + 1 &= a^2 \\
+4(\sqrt{3}l)^2 + 4l^2 + 4l + 1 &= a^2
+16l^2 + 4l + 1 &= a^2 \\
+(4l + 1)(4l + 1) = a^2.
+\end{align*}
+
+Letting $y = (2k)^2 = (2\sqrt{3})^2$ gives us $x + y = a^2$. It is clear that the $y$ we have constructed is both a square number, and even.
+
+\end{document}
