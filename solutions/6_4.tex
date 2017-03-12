@@ -1,0 +1,25 @@
+\documentclass{article}
+\usepackage{lmodern}
+\usepackage{amsmath}
+
+\title{From Mathematics to Generic Programming}
+\author{Brooks Mershon}
+\date{March 2017}
+
+\begin{document}
+
+\maketitle
+
+\section*{6.4}
+
+\textit{Solution.}
+
+The order of $e$ is $1$ because the order of an element $a$ of some group is defined as the smallest $m$ such that $a^m = e$. Well, $e^1 = e$. $e0$ is not necessarily equal to $e$ (what could it equal?), and the definition (6.7) of the \textbf{order} of an element happens to explicitly define this value for values of $m > 0$.
+
+Now, suppose some other element $a_0$ satisfied
+
+$$a_0^1 = e.$$
+
+Then by the definition of raising a group to a power, $a_0^1 = a_0 = e$. So $e$ is the only element of order $1$.
+
+\end{document}
