@@ -1,0 +1,23 @@
+\documentclass{article}
+\usepackage{lmodern}
+\usepackage{amsmath}
+
+\title{From Mathematics to Generic Programming}
+\author{Brooks Mershon}
+\date{March 2017}
+
+\begin{document}
+
+\maketitle
+
+\section*{6.5}
+
+\textit{Solution.}
+
+The element $a$ has order $n$, which means $a^{n-1}$ applications of $a$ to the element $a$ produces $e$.
+
+$$a \cdot a^{n-1} = e = a \cdot a^{-1} = a^{-1} \cdot a$$
+
+By the cancellation axiom for a group, this implies that $a^{-1} = a^{n-1}$.
+
+\end{document}
