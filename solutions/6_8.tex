@@ -1,0 +1,31 @@
+\documentclass{article}
+\usepackage{lmodern}
+\usepackage{amsmath}
+
+\title{From Mathematics to Generic Programming}
+\author{Brooks Mershon}
+\date{March 2017}
+
+\begin{document}
+
+\maketitle
+
+\section*{6.8}
+
+\textit{Solution.}
+
+Let $b = g^n$ for some generating element $g$ in G. Let $a = g^m$.
+
+We want to show that our arbitrary $a$ and $b$ chosen from a cyclic group will satisfy
+
+$$a \circ \b = b \circ a$$
+
+We can use the Commutativity of Powers (6.1) to show that a cyclic group is indeed \textit{abelian}.
+
+\begin{align*}
+    a \circ b &= g^n g^m = g^m g^n = b a = b \circ a
+\end{align*}
+
+This holds for any $a$ and $b$, as $a$ and $b$ were chosen arbitrarily.
+
+\end{document}
