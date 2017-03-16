@@ -1,0 +1,26 @@
+\documentclass{article}
+\usepackage{lmodern}
+\usepackage{amsmath}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=blue,
+}
+
+\title{From Mathematics to Generic Programming}
+\author{Brooks Mershon}
+\date{March 2017}
+
+\begin{document}
+
+\maketitle
+
+\section*{6.9}
+
+\textit{Solution.}
+
+We have a group with 101 distinct elements. Lagrange's Theorem tells us that \textit{the order of any subgroup $H$ in a finite group $G$ divides the order of the group}. Well, \href{https://bl.ocks.org/bmershon/8bed98a4633d86403e1ca56165cda6da}{101 happens to be prime}. So the only subgroups that can exist must have orders that are divisors of 101, otherwise we will have contradicted Lagrange's Theorem. The divisors of $101$ are $1$ and $101$; the subgroups of G are $\left\{ 1 \right\}$ and $G$, the trivial subgroups.
+
+\end{document}
