@@ -1,6 +1,9 @@
+From Mathematics to Generic Programming (FM2GP)
+==========
+
 This repository is a collection of solutions to exercises to the wonderful book:
 
-[_From Mathematics to Generic Programming_](https://www.amazon.com/Mathematics-Generic-Programming-Alexander-Stepanov/dp/0321942043) by Stepanov and Rose (first edition).
+[_From Mathematics to Generic Programming_](https://www.amazon.com/Mathematics-Generic-Programming-Alexander-Stepanov/dp/0321942043) by Stepanov and Rose (first edition). Errata may be found on the book's [website](http://www.fm2gp.com/).
 
 ## Solutions
 
