@@ -6,6 +6,10 @@ This repository is a collection of solutions to exercises to the wonderful book:
 
 Problem statements can be found in the text.
 
+### Chapter 6
+
+* [6.10 Groups with a Prime Order](https://github.com/bmershon/from-mathematics-to-generic-programming/blob/master/solutions/6_10.pdf)
+
 ### Chapter 9
 
 * [9.3 Associativity, Multiplicity, and distributivity with Peano Arithmetic](https://github.com/bmershon/from-mathematics-to-generic-programming/blob/master/solutions/9_3.pdf)
