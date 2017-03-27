@@ -2,7 +2,13 @@ This repository is a collection of solutions to exercises to the wonderful book:
 
 [_From Mathematics to Generic Programming_](https://www.amazon.com/Mathematics-Generic-Programming-Alexander-Stepanov/dp/0321942043) by Stepanov and Rose (first edition).
 
-See sidebar pages for solutions to exercises found in the text. Problem statements can be found in the text.
+## Solutions
+
+Problem statements can be found in the text.
+
+### Chapter 9
+
+* [9.3 Associativity, Multiplicity, and distributivity with Peano Arithmetic](https://github.com/bmershon/from-mathematics-to-generic-programming/blob/master/solutions/9_3.pdf)
 
 ## Visualizations and Code
 
