@@ -11,6 +11,10 @@ Errata may be found on the book's [website](http://www.fm2gp.com/).
 
 Problem statements can be found in the text.
 
+### Chapter 5
+
+* [(5.1) Expand the factorial!](https://github.com/bmershon/fm2gp/blob/master/solutions/5_1.pdf)
+
 ### Chapter 6
 
 * [(6.4) The order of the identity element](https://github.com/bmershon/fm2gp/blob/master/solutions/6_4.pdf)
