@@ -13,17 +13,17 @@ Problem statements can be found in the text.
 
 ### Chapter 6
 
-* [6.4 | The order of the identity element](https://github.com/bmershon/from-mathematics-to-generic-programming/blob/master/solutions/6_4.pdf)
-* [6.5 | Inverses of Group Elements](https://github.com/bmershon/from-mathematics-to-generic-programming/blob/master/solutions/6_5.pdf)
-* [6.6 | Nonzero Remainders Modulo 7 and 11](https://github.com/bmershon/from-mathematics-to-generic-programming/blob/master/solutions/6_6.pdf)
-* [6.7 | Subgroups of Cyclic Groups are Cyclic](https://github.com/bmershon/from-mathematics-to-generic-programming/blob/master/solutions/6_7.pdf)
-* [6.8 | Cyclic Groups are Abelian](https://github.com/bmershon/from-mathematics-to-generic-programming/blob/master/solutions/6_8.pdf)
-* [6.9 | Subgroups](https://github.com/bmershon/from-mathematics-to-generic-programming/blob/master/solutions/6_9.pdf)
-* [6.10 | Groups with a Prime Order](https://github.com/bmershon/from-mathematics-to-generic-programming/blob/master/solutions/6_10.pdf)
+* [(6.4) The order of the identity element](https://github.com/bmershon/from-mathematics-to-generic-programming/blob/master/solutions/6_4.pdf)
+* [(6.5) Inverses of Group Elements](https://github.com/bmershon/from-mathematics-to-generic-programming/blob/master/solutions/6_5.pdf)
+* [(6.6) Nonzero Remainders Modulo 7 and 11](https://github.com/bmershon/from-mathematics-to-generic-programming/blob/master/solutions/6_6.pdf)
+* [(6.7) Subgroups of Cyclic Groups are Cyclic](https://github.com/bmershon/from-mathematics-to-generic-programming/blob/master/solutions/6_7.pdf)
+* [(6.8) Cyclic Groups are Abelian](https://github.com/bmershon/from-mathematics-to-generic-programming/blob/master/solutions/6_8.pdf)
+* [(6.9) Subgroups](https://github.com/bmershon/from-mathematics-to-generic-programming/blob/master/solutions/6_9.pdf)
+* [(6.10) Groups with a Prime Order](https://github.com/bmershon/from-mathematics-to-generic-programming/blob/master/solutions/6_10.pdf)
 
 ### Chapter 9
 
-* [9.3 | Associativity, Multiplicity, and distributivity with Peano Arithmetic](https://github.com/bmershon/from-mathematics-to-generic-programming/blob/master/solutions/9_3.pdf)
+* [(9.3) Associativity, Multiplicity, and distributivity with Peano Arithmetic](https://github.com/bmershon/from-mathematics-to-generic-programming/blob/master/solutions/9_3.pdf)
 
 ## Visualizations and Code
 
