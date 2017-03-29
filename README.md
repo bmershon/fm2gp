@@ -16,8 +16,6 @@ Problem statements can be found in the text.
 ### Chapter 4
 
 * [(4.4) Proof from Liber Quadratorum](https://github.com/bmershon/fm2gp/blob/master/solutions/4_4.pdf)
-* (4.5) TODO
-
 
 ### Chapter 5
 
