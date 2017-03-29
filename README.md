@@ -19,11 +19,11 @@ Problem statements can be found in the text.
 
 ### Chapter 5
 
-* [(5.1) Expand the factorial!](https://github.com/bmershon/fm2gp/blob/master/solutions/5_1.pdf)
+* [(5.1) Expand the Factorial (as Wilson would do)](https://github.com/bmershon/fm2gp/blob/master/solutions/5_1.pdf)
 
 ### Chapter 6
 
-* [(6.4) The order of the identity element](https://github.com/bmershon/fm2gp/blob/master/solutions/6_4.pdf)
+* [(6.4) The order of the Identity Element](https://github.com/bmershon/fm2gp/blob/master/solutions/6_4.pdf)
 * [(6.5) Inverses of Group Elements](https://github.com/bmershon/fm2gp/blob/master/solutions/6_5.pdf)
 * [(6.6) Nonzero Remainders Modulo 7 and 11](https://github.com/bmershon/fm2gp/blob/master/solutions/6_6.pdf)
 * [(6.7) Subgroups of Cyclic Groups are Cyclic](https://github.com/bmershon/fm2gp/blob/master/solutions/6_7.pdf)
