@@ -13,9 +13,20 @@ Errata may be found on the book's [website](http://www.fm2gp.com/).
 
 Problem statements can be found in the text.
 
+### Chapter 3
+
+#### Visualization / Code
+
+* [Sieve of Eratosthenes](https://bl.ocks.org/bmershon/8bed98a4633d86403e1ca56165cda6da)
+* [Prime-counting function](https://bl.ocks.org/bmershon/e15a65d5599870a860de734f2ef09cde)
+
 ### Chapter 4
 
 * [(4.4) Proof from Liber Quadratorum](https://github.com/bmershon/fm2gp/blob/master/solutions/4_4.pdf)
+
+#### Visualization / Code
+
+* [Euclid's Greatest Common Measure algorithm](https://bl.ocks.org/bmershon/496aa57731fdc6b83b0d7ea8d75cda62)
 
 ### Chapter 5
 
@@ -31,22 +42,14 @@ Problem statements can be found in the text.
 * [(6.9) Subgroups](https://github.com/bmershon/fm2gp/blob/master/solutions/6_9.pdf)
 * [(6.10) Groups with a Prime Order](https://github.com/bmershon/fm2gp/blob/master/solutions/6_10.pdf)
 
+#### Visualization / Code
+
+* [Multiplicative Group Modulo 11](https://bl.ocks.org/bmershon/7938f064dc2202364cdd52acbd24805d)
+
 ### Chapter 9
 
 * [(9.3) Associativity, Multiplicity, and distributivity with Peano Arithmetic](https://github.com/bmershon/fm2gp/blob/master/solutions/9_3.pdf)
 
-## Visualizations and Code
+### Chapter 11
 
-The following are links to JavaScript visualizations of fun concepts and algorithms presented in the text. Code is provided for all snippets.
-
-### Chapter 3
-
-* [Sieve of Eratosthenes](https://bl.ocks.org/bmershon/8bed98a4633d86403e1ca56165cda6da)
-* [Prime-counting function](https://bl.ocks.org/bmershon/e15a65d5599870a860de734f2ef09cde)
-
-### Chapter 4
-* [Euclid's Greatest Common Measure algorithm](https://bl.ocks.org/bmershon/496aa57731fdc6b83b0d7ea8d75cda62)
-
-### Chapter 6
-
-* [Multiplicative Group Modulo 11](https://bl.ocks.org/bmershon/7938f064dc2202364cdd52acbd24805d)
+* [(11.12) Reverse(https://github.com/bmershon/fm2gp/blob/master/solutions/11_12.pdf)
