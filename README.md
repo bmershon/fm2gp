@@ -40,7 +40,7 @@ Problem statements can be found in the text.
 * [(6.9) Subgroups](https://github.com/bmershon/fm2gp/blob/master/solutions/6_9.pdf)
 * [(6.10) Groups with a Prime Order](https://github.com/bmershon/fm2gp/blob/master/solutions/6_10.pdf)
 
-#### Visualization / Code
+### Visualization / Code
 
 * [Multiplicative Group Modulo 11](https://bl.ocks.org/bmershon/7938f064dc2202364cdd52acbd24805d)
 
