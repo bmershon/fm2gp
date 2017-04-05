@@ -1,0 +1,35 @@
+\documentclass{article}
+\usepackage{lmodern}
+\usepackage{amsmath}
+
+\title{From Mathematics to Generic Programming}
+\author{Brooks Mershon}
+\date{April 2017}
+
+\begin{document}
+
+\maketitle
+
+\section*{4.3}
+
+
+\textit{Solution.}
+
+\bigskip
+
+We are asked to show that:
+
+$$ \sqrt[3]{(16)} + \sqrt[3]{(54)} = \sqrt[3]{(250)}$$
+
+We heed the hint in the text regarding the value of $\sqrt[3](2)$, which may be assigned an arbitrary symbol even if its exact value cannot be easily computed.
+
+\begin{align*}
+\sqrt[3](16) + \sqrt[3]{(54)} &= \sqrt[3]{(250)} \\
+\sqrt[3]{(2^3 x 2)} + \sqrt[3]{(3^3 x 2)} &= \sqrt[3]{(5^3 x 2)} \\
+2 x \sqrt[3]{(2)} + 2 x \sqrt[3]{(2)} &= 5 x \sqrt[3]{(2)} \\
+5 x \sqrt[3]{(2)} &= 5 x \sqrt[3]{(2)}
+\end{align*}
+
+Whatever the $\sqrt[3]{2}$ happens to be, our arithmetic shows that the given expression is truly an equality.
+
+\end{document}
