@@ -1,0 +1,23 @@
+\documentclass{article}
+\usepackage{lmodern}
+\usepackage{amsmath}
+\usepackage{hyperref}
+
+\title{From Mathematics to Generic Programming}
+\author{Brooks Mershon}
+\date{April 2017}
+
+\begin{document}
+
+\maketitle
+
+\section*{11.2}
+
+\textit{Solution.}
+
+The symmetric group $S_n$ is the set of all permutations on $n$ elements. A permutation presents the opportunity to choose $n$ elements which will be assigned the \textit{first} position in the shorthand notation for permutations (e.g., $(2 \quad 4 \quad 1 \quad 3)$), $n - 1$ elements for the second position, $n - 2$ elements for the third, and so on until we reach $n - (n - 1) = 1$ choices for the \textit{last} element.
+
+Since each choice is independent of the other, we may multiply these choices in what might be visualized as a tree-like structure with $n!$ leaves. There are $n!$ elements in the symmetric group $S_n$.
+
+
+\end{document}
