@@ -29,6 +29,7 @@ Problem statements can be found in the text.
 
 ## Chapter 4
 
+* [(4.3) Algebra, Not Number Crunching](https://github.com/bmershon/fm2gp/blob/master/solutions/4_3.pdf)
 * [(4.4) Proof from Liber Quadratorum](https://github.com/bmershon/fm2gp/blob/master/solutions/4_4.pdf)
 
 **See also:**
