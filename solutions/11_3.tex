@@ -1,0 +1,32 @@
+\documentclass{article}
+\usepackage{lmodern}
+\usepackage{amsmath}
+\usepackage{hyperref}
+
+\title{From Mathematics to Generic Programming}
+\author{Brooks Mershon}
+\date{April 2017}
+
+\begin{document}
+
+\maketitle
+
+\section*{11.3}
+
+
+\textit{Solution.}
+
+\bigskip
+
+When $n = 2$, we see that any element of $S_n$ is a transposition or the identity permutation  (do nothing). So commutativity trivially follows. When $n > 2$, we might intuitively suspect that permutations are not commutative because functions are, in general, not commutative: $f(g(x)) \neq g(f(x))$. Intuitively, pure functions depend on their inputs, so swapping functions around in terms of composition seems like it would, in general, not preserve inputs for the respective functions. 
+
+Consider $s_1$, $s_2$, and $s_3$ as elements in $S_n$ where $n > 3$. Let $\alpha$ be the permutation which transposes $s_1$ and $s_2$ and let $s\beta$ be the permutation which transposes $s_2$ and $s_3$.
+
+$$\alpha \circ \beta = (3\ \ 1\ \ 2)$$
+
+$$\beta \circ \alpha = (2\ \ 3\ \ 1) \neq \alpha \circ \beta$$
+
+We see that permutations which \textit{intersect} will tend to not allow for commutativity, as this counterexample shows. $S_n$ is not abelian for $n > 3$.
+
+
+\end{document}
