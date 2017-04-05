@@ -63,6 +63,6 @@ Problem statements can be found in the text.
 * [(11.3) Commutativity of the Symmetric Group](https://github.com/bmershon/fm2gp/blob/master/solutions/11_3.pdf)
 * [(11.12) Reverse Iterator Tests](https://github.com/bmershon/fm2gp/blob/master/solutions/11_12.pdf)
 
-### Code
+**See also:**
 
 * [Proposed `rotate()` implementation as part of d3-array](https://github.com/bmershon/d3-array/blob/master/src/rotate.js)
