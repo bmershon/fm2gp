@@ -19,7 +19,7 @@ Problem statements can be found in the text.
 
 * [(3.1) Triangular Numbers](https://github.com/bmershon/fm2gp/blob/master/solutions/3_1.md)
 * [(3.3) Prime-Counting Function](https://github.com/bmershon/fm2gp/blob/master/solutions/3_3.md)
-* [(3.3) Palindromic Primes](https://github.com/bmershon/fm2gp/blob/master/solutions/3_4.md)
+* [(3.4) Palindromic Primes](https://github.com/bmershon/fm2gp/blob/master/solutions/3_4.md)
 
 
 ### Visualization / Code
