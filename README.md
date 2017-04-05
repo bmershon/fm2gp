@@ -21,8 +21,7 @@ Problem statements can be found in the text.
 * [(3.3) Prime-Counting Function](https://github.com/bmershon/fm2gp/blob/master/solutions/3_3.md)
 * [(3.4) Palindromic Primes](https://github.com/bmershon/fm2gp/blob/master/solutions/3_4.md)
 
-
-### Visualization / Code
+**See also:**
 
 * [Sieve of Eratosthenes](https://bl.ocks.org/bmershon/8bed98a4633d86403e1ca56165cda6da)
 * [Prime-counting function](https://bl.ocks.org/bmershon/e15a65d5599870a860de734f2ef09cde)
@@ -31,7 +30,7 @@ Problem statements can be found in the text.
 
 * [(4.4) Proof from Liber Quadratorum](https://github.com/bmershon/fm2gp/blob/master/solutions/4_4.pdf)
 
-### Visualization / Code
+**See also:**
 
 * [Euclid's Greatest Common Measure algorithm](https://bl.ocks.org/bmershon/496aa57731fdc6b83b0d7ea8d75cda62)
 
@@ -49,7 +48,7 @@ Problem statements can be found in the text.
 * [(6.9) Subgroups](https://github.com/bmershon/fm2gp/blob/master/solutions/6_9.pdf)
 * [(6.10) Groups with a Prime Order](https://github.com/bmershon/fm2gp/blob/master/solutions/6_10.pdf)
 
-### Visualization / Code
+**See also:**
 
 * [Multiplicative Group Modulo 11](https://bl.ocks.org/bmershon/7938f064dc2202364cdd52acbd24805d)
 
