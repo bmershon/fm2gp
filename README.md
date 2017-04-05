@@ -17,6 +17,8 @@ Problem statements can be found in the text.
 
 ## Chapter 3
 
+* [(3.1) Triangular Numbers](https://github.com/bmershon/fm2gp/blob/master/solutions/3_1.md)
+
 ### Visualization / Code
 
 * [Sieve of Eratosthenes](https://bl.ocks.org/bmershon/8bed98a4633d86403e1ca56165cda6da)
