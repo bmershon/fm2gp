@@ -1,0 +1,7 @@
+[This example](https://bl.ocks.org/bmershon/e15a65d5599870a860de734f2ef09cde) illustrates the prime-counting function in relation to an approximation:
+
+```
+π = (x) => x / Math.log(x)
+```
+
+See the Wikipedia page on the [Prime-counting function](https://en.wikipedia.org/wiki/Prime-counting_function).
