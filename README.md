@@ -57,4 +57,4 @@ Problem statements can be found in the text.
 
 ### Code
 
-* [Proposed rotate implementation as part of d3-array](https://github.com/bmershon/d3-array/blob/master/src/rotate.js)
+* [Proposed `rotate()` implementation as part of d3-array](https://github.com/bmershon/d3-array/blob/master/src/rotate.js)
