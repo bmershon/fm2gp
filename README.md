@@ -50,4 +50,5 @@ Problem statements can be found in the text.
 
 ## Chapter 11
 
+* [(11.11) Cayley's Theorem](https://github.com/bmershon/fm2gp/blob/master/solutions/11_12.pdf)
 * [(11.12) Reverse iterator tests](https://github.com/bmershon/fm2gp/blob/master/solutions/11_12.pdf)
