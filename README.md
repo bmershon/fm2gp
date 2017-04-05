@@ -54,3 +54,7 @@ Problem statements can be found in the text.
 * [(11.2) Order of the Symmetric Group](https://github.com/bmershon/fm2gp/blob/master/solutions/11_2.pdf)
 * [(11.3) Commutativity of the Symmetric Group](https://github.com/bmershon/fm2gp/blob/master/solutions/11_3.pdf)
 * [(11.12) Reverse iterator tests](https://github.com/bmershon/fm2gp/blob/master/solutions/11_12.pdf)
+
+### Code
+
+* [Proposed rotate implementation as part of d3-array](https://github.com/bmershon/d3-array/blob/master/src/rotate.js)
